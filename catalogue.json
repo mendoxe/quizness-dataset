@@ -1,5 +1,255 @@
 {
   "catalogueVersion": 2,
-  "revision": 1,
-  "datasets": []
+  "revision": 2,
+  "datasets": [
+    {
+      "datasetId": "9ee6a4d5-3b83-5d0d-af92-195a2e1f2c75",
+      "variantId": "a6a4072a-9c6d-53f0-8fa4-5a49495e9d14",
+      "title": "Vůdce malého plavidla – M a M20",
+      "locale": "cs",
+      "defaultLocale": "cs",
+      "description": "Oficiální zkušební otázky Státní plavební správy (stav k 7. 2. 2025). Test má 35 otázek a trvá 30 minut; k úspěchu je potřeba alespoň 30 správných odpovědí.",
+      "contentVersion": "2025.2.7",
+      "schemaVersion": 2,
+      "questionCount": 407,
+      "labels": [
+        "boating",
+        "law"
+      ],
+      "archive": "https://github.com/mendoxe/quizness-dataset/releases/download/catalogue-2/a6a4072a-9c6d-53f0-8fa4-5a49495e9d14-2025.2.7.tar.gz",
+      "sizeBytes": 530390,
+      "sha256": "44b59885b3c456f48ca24ab26eef2abeca84c033873044514fe90e62c2b08fcd"
+    },
+    {
+      "datasetId": "6cea601c-76ef-5131-b0ba-94bc566eb5a2",
+      "variantId": "bb5179fc-4bd1-5886-b353-9251737da5b4",
+      "title": "Vůdce malého plavidla – S a S20",
+      "locale": "cs",
+      "defaultLocale": "cs",
+      "description": "Oficiální zkušební otázky Státní plavební správy (stav k 7. 2. 2025). Test má 14 otázek a trvá 10 minut; k úspěchu je potřeba alespoň 11 správných odpovědí.",
+      "contentVersion": "2025.2.7",
+      "schemaVersion": 2,
+      "questionCount": 170,
+      "labels": [
+        "boating",
+        "law"
+      ],
+      "archive": "https://github.com/mendoxe/quizness-dataset/releases/download/catalogue-2/bb5179fc-4bd1-5886-b353-9251737da5b4-2025.2.7.tar.gz",
+      "sizeBytes": 32937,
+      "sha256": "4a1f7680dbade5920c9e41139934fc55c4d2acd2c6ea2f64994618a82ff819cf"
+    },
+    {
+      "datasetId": "d370eebe-1390-55ec-8e22-f7b97d33e849",
+      "variantId": "ffbdc539-bf1c-51ce-a255-27fbafe024cf",
+      "title": "Vůdce rekreačního plavidla – oblast C",
+      "locale": "cs",
+      "defaultLocale": "cs",
+      "description": "Oficiální zkušební otázky Státní plavební správy (stav k 7. 2. 2025). Test má 28 otázek a trvá 25 minut; k úspěchu je potřeba alespoň 24 správných odpovědí.",
+      "contentVersion": "2025.2.7",
+      "schemaVersion": 2,
+      "questionCount": 215,
+      "labels": [
+        "boating",
+        "law"
+      ],
+      "archive": "https://github.com/mendoxe/quizness-dataset/releases/download/catalogue-2/ffbdc539-bf1c-51ce-a255-27fbafe024cf-2025.2.7.tar.gz",
+      "sizeBytes": 228848,
+      "sha256": "2f146e4e9cdd4c1e313a5e4ab3abf974651c4a37444397db25ff2fd259d81f51"
+    },
+    {
+      "datasetId": "d9726ac0-06dd-553a-96bc-c47bc21b4fbe",
+      "variantId": "b7ddba4b-61b3-5880-b53d-047e25a1b3f2",
+      "title": "Autoškola – zkušební otázky",
+      "locale": "cs",
+      "defaultLocale": "cs",
+      "description": "Oficiální zkušební otázky Ministerstva dopravy ČR pro žadatele o řidičské oprávnění podle Věstníku dopravy (znění k 8. 10. 2026). Test má 25 otázek za 50 bodů a trvá 30 minut; k úspěchu je potřeba alespoň 43 bodů.",
+      "contentVersion": "2026.10.8",
+      "schemaVersion": 2,
+      "questionCount": 1136,
+      "labels": [
+        "driving",
+        "law"
+      ],
+      "archive": "https://github.com/mendoxe/quizness-dataset/releases/download/catalogue-2/b7ddba4b-61b3-5880-b53d-047e25a1b3f2-2026.10.8.tar.gz",
+      "sizeBytes": 87328908,
+      "sha256": "a5bfe83a5fcb44833597e7f4cca335380405c629e70d3d0c8309b35d0f420d78"
+    },
+    {
+      "datasetId": "212c1119-36f8-5b5c-91ef-d05781bd4178",
+      "variantId": "45d97dcb-09f7-5ac3-9705-f132f3e0407b",
+      "title": "Zbrojní oprávnění – zkušební otázky",
+      "locale": "cs",
+      "defaultLocale": "cs",
+      "description": "Oficiální testové otázky Ministerstva vnitra ČR k teoretické části zkoušky odborné způsobilosti (znění z 15. 12. 2025). Test má 30 otázek a trvá 40 minut; k obecnému zbrojnímu oprávnění je potřeba alespoň 26 správných odpovědí, k rozšířenému 28.",
+      "contentVersion": "2025.12.15",
+      "schemaVersion": 2,
+      "questionCount": 835,
+      "labels": [
+        "firearms",
+        "law",
+        "first aid"
+      ],
+      "archive": "https://github.com/mendoxe/quizness-dataset/releases/download/catalogue-2/45d97dcb-09f7-5ac3-9705-f132f3e0407b-2025.12.15.tar.gz",
+      "sizeBytes": 1902856,
+      "sha256": "0a7117e03a93f18d23b5317087e0103a9f586caff6ebb1bbd38f6b2358804899"
+    },
+    {
+      "datasetId": "0ed644b0-152a-5de7-828b-ff8e85165cd7",
+      "variantId": "08f6cb82-f9b4-52cf-bb8a-af8aefa47092",
+      "title": "Sportbootführerschein Binnen – Antriebsmaschine",
+      "locale": "de",
+      "defaultLocale": "de",
+      "description": "Offizieller Fragenkatalog der Wasserstraßen- und Schifffahrtsverwaltung des Bundes (Stand: 1. August 2023). Quelle: www.elwis.de. Die Prüfung umfasst 30 Auswahlfragen in 45 Minuten. Mindestens 5 von 7 Basisfragen und 18 von 23 spezifischen Fragen müssen richtig beantwortet werden.",
+      "contentVersion": "2023.8.1",
+      "schemaVersion": 2,
+      "questionCount": 253,
+      "labels": [
+        "boating",
+        "law"
+      ],
+      "archive": "https://github.com/mendoxe/quizness-dataset/releases/download/catalogue-2/08f6cb82-f9b4-52cf-bb8a-af8aefa47092-2023.8.1.tar.gz",
+      "sizeBytes": 182111,
+      "sha256": "b67e2ad8d4744e9f655a5b9c6b8795fda04bfe62104509b8e52edd0486a64e68"
+    },
+    {
+      "datasetId": "0767bdf2-f432-5768-aae0-30338eaf1b18",
+      "variantId": "2677c858-05c9-5b35-815e-c4effa41b8f8",
+      "title": "Sportbootführerschein See",
+      "locale": "de",
+      "defaultLocale": "de",
+      "description": "Offizieller Fragenkatalog der Wasserstraßen- und Schifffahrtsverwaltung des Bundes (Stand: 1. August 2023). Quelle: www.elwis.de. Die Prüfung umfasst 30 Auswahlfragen in 60 Minuten. Mindestens 5 von 7 Basisfragen und 18 von 23 spezifischen Fragen müssen richtig beantwortet werden. Die schriftliche Navigationsaufgabe auf der Seekarte ist nicht enthalten.",
+      "contentVersion": "2023.8.1",
+      "schemaVersion": 2,
+      "questionCount": 285,
+      "labels": [
+        "boating",
+        "law"
+      ],
+      "archive": "https://github.com/mendoxe/quizness-dataset/releases/download/catalogue-2/2677c858-05c9-5b35-815e-c4effa41b8f8-2023.8.1.tar.gz",
+      "sizeBytes": 267326,
+      "sha256": "051a9690783fde3f2e15934b345a511a47a53c4e34dcff34028ad30bdca0d689"
+    },
+    {
+      "datasetId": "bc863ff4-f3a2-5c26-ba7f-f5278be7dd8a",
+      "variantId": "ab5b2a30-6440-5088-9ba9-be165c278f18",
+      "title": "Sportbootführerschein Binnen – Segeln",
+      "locale": "de",
+      "defaultLocale": "de",
+      "description": "Offizieller Fragenkatalog der Wasserstraßen- und Schifffahrtsverwaltung des Bundes (Stand: 1. August 2023). Quelle: www.elwis.de. Die Prüfung umfasst 25 Auswahlfragen in 35 Minuten. Mindestens 20 von 25 Punkten insgesamt sind erforderlich.",
+      "contentVersion": "2023.8.1",
+      "schemaVersion": 2,
+      "questionCount": 257,
+      "labels": [
+        "boating",
+        "law"
+      ],
+      "archive": "https://github.com/mendoxe/quizness-dataset/releases/download/catalogue-2/ab5b2a30-6440-5088-9ba9-be165c278f18-2023.8.1.tar.gz",
+      "sizeBytes": 185813,
+      "sha256": "3d733a777d4d4a4d42bc4e7ca950a3d1c140cd2de64d47cb5a59c624df7bbbdf"
+    },
+    {
+      "datasetId": "2ce78b80-2dcb-53b2-9a76-2f50fa4b8096",
+      "variantId": "c827be1d-a1d8-5d1d-93cd-955d09ff4469",
+      "title": "Sportbootführerschein Binnen – Antriebsmaschine und Segeln",
+      "locale": "de",
+      "defaultLocale": "de",
+      "description": "Offizieller Fragenkatalog der Wasserstraßen- und Schifffahrtsverwaltung des Bundes (Stand: 1. August 2023). Quelle: www.elwis.de. Die Prüfung umfasst 37 Auswahlfragen in 60 Minuten. Mindestens 5 von 7 Basisfragen und 18 von 23 spezifischen Fragen müssen richtig beantwortet werden. Zusätzlich sind mindestens 5 von 7 Segelfragen richtig zu beantworten.",
+      "contentVersion": "2023.8.1",
+      "schemaVersion": 2,
+      "questionCount": 300,
+      "labels": [
+        "boating",
+        "law"
+      ],
+      "archive": "https://github.com/mendoxe/quizness-dataset/releases/download/catalogue-2/c827be1d-a1d8-5d1d-93cd-955d09ff4469-2023.8.1.tar.gz",
+      "sizeBytes": 195475,
+      "sha256": "7ead3218f483cd7548ded22bea77a2763d1a5d2804f3f1ec1e37ab9d87cb3be4"
+    },
+    {
+      "datasetId": "311d9970-7bda-5faa-a115-de6b8665139a",
+      "variantId": "7b1bb4fe-e19e-5ec6-addd-67680b90e01a",
+      "title": "Amateurfunk – Technische Kenntnisse der Klasse N",
+      "locale": "de",
+      "defaultLocale": "de",
+      "description": "Prüfungsteil N: 25 Fragen, 45 Minuten, bestanden mit mindestens 19 richtigen Antworten (76 %). Prüfungsfragen zum Erwerb von Amateurfunkprüfungsbescheinigungen, Bundesnetzagentur, 3. Auflage, März 2024, (www.bundesnetzagentur.de/amateurfunk), Datenlizenz Deutschland – Namensnennung – Version 2.0 (www.govdata.de/dl-de/by-2-0). Die Daten wurden geändert: Formeln als Text dargestellt, Bilder konvertiert.",
+      "contentVersion": "2024.3",
+      "schemaVersion": 2,
+      "questionCount": 195,
+      "labels": [
+        "radio"
+      ],
+      "archive": "https://github.com/mendoxe/quizness-dataset/releases/download/catalogue-2/7b1bb4fe-e19e-5ec6-addd-67680b90e01a-2024.3.tar.gz",
+      "sizeBytes": 669120,
+      "sha256": "133a6d27de0e9195846dd54076b4b41ff785f03465284d99ff7018d1f3b5d08d"
+    },
+    {
+      "datasetId": "27273334-2d20-5686-b5ff-1cec30423421",
+      "variantId": "84d1553e-8a37-5b4a-9dad-54b016ca7858",
+      "title": "Amateurfunk – Technische Kenntnisse der Klasse E",
+      "locale": "de",
+      "defaultLocale": "de",
+      "description": "Prüfungsteil E: 25 Fragen, 45 Minuten, bestanden mit mindestens 19 richtigen Antworten (76 %). Prüfungsfragen zum Erwerb von Amateurfunkprüfungsbescheinigungen, Bundesnetzagentur, 3. Auflage, März 2024, (www.bundesnetzagentur.de/amateurfunk), Datenlizenz Deutschland – Namensnennung – Version 2.0 (www.govdata.de/dl-de/by-2-0). Die Daten wurden geändert: Formeln als Text dargestellt, Bilder konvertiert.",
+      "contentVersion": "2024.3",
+      "schemaVersion": 2,
+      "questionCount": 463,
+      "labels": [
+        "radio"
+      ],
+      "archive": "https://github.com/mendoxe/quizness-dataset/releases/download/catalogue-2/84d1553e-8a37-5b4a-9dad-54b016ca7858-2024.3.tar.gz",
+      "sizeBytes": 1792335,
+      "sha256": "4ecae9a46354600902d8bba42e69b0292d160bba2058b54f44bea43ae565dd17"
+    },
+    {
+      "datasetId": "f5cf32a3-46ca-5736-8d45-aeb7fd6688cc",
+      "variantId": "9832d862-2118-5acb-8212-eeb02f69021a",
+      "title": "Amateurfunk – Technische Kenntnisse der Klasse A",
+      "locale": "de",
+      "defaultLocale": "de",
+      "description": "Prüfungsteil A: 25 Fragen, 60 Minuten, bestanden mit mindestens 19 richtigen Antworten (76 %). Prüfungsfragen zum Erwerb von Amateurfunkprüfungsbescheinigungen, Bundesnetzagentur, 3. Auflage, März 2024, (www.bundesnetzagentur.de/amateurfunk), Datenlizenz Deutschland – Namensnennung – Version 2.0 (www.govdata.de/dl-de/by-2-0). Die Daten wurden geändert: Formeln als Text dargestellt, Bilder konvertiert.",
+      "contentVersion": "2024.3",
+      "schemaVersion": 2,
+      "questionCount": 716,
+      "labels": [
+        "radio"
+      ],
+      "archive": "https://github.com/mendoxe/quizness-dataset/releases/download/catalogue-2/9832d862-2118-5acb-8212-eeb02f69021a-2024.3.tar.gz",
+      "sizeBytes": 3409443,
+      "sha256": "b13158f6c89ca4448293c504b8c413656124c243083bf29cbeb4ab342638af97"
+    },
+    {
+      "datasetId": "9a6b5c57-824c-5390-afa2-868ed24e58e6",
+      "variantId": "e39c1180-3c45-5bff-a5d3-bc9377593a20",
+      "title": "Amateurfunk – Betriebliche Kenntnisse",
+      "locale": "de",
+      "defaultLocale": "de",
+      "description": "Prüfungsteil B: 25 Fragen, 45 Minuten, bestanden mit mindestens 19 richtigen Antworten (76 %). Prüfungsfragen zum Erwerb von Amateurfunkprüfungsbescheinigungen, Bundesnetzagentur, 3. Auflage, März 2024, (www.bundesnetzagentur.de/amateurfunk), Datenlizenz Deutschland – Namensnennung – Version 2.0 (www.govdata.de/dl-de/by-2-0). Die Daten wurden geändert: Formeln als Text dargestellt, Bilder konvertiert.",
+      "contentVersion": "2024.3",
+      "schemaVersion": 2,
+      "questionCount": 172,
+      "labels": [
+        "radio"
+      ],
+      "archive": "https://github.com/mendoxe/quizness-dataset/releases/download/catalogue-2/e39c1180-3c45-5bff-a5d3-bc9377593a20-2024.3.tar.gz",
+      "sizeBytes": 220774,
+      "sha256": "39daccaa158426ab30ac97ab520784f29c849a5abc8ace9607f69d7163cebc11"
+    },
+    {
+      "datasetId": "4ee2044b-018d-519a-b8f7-f8dd6642b4c6",
+      "variantId": "eaef5789-e247-54ec-884d-dc7c00b9bb7f",
+      "title": "Amateurfunk – Kenntnisse von Vorschriften",
+      "locale": "de",
+      "defaultLocale": "de",
+      "description": "Prüfungsteil V: 25 Fragen, 45 Minuten, bestanden mit mindestens 19 richtigen Antworten (76 %). Prüfungsfragen zum Erwerb von Amateurfunkprüfungsbescheinigungen, Bundesnetzagentur, 3. Auflage, März 2024, (www.bundesnetzagentur.de/amateurfunk), Datenlizenz Deutschland – Namensnennung – Version 2.0 (www.govdata.de/dl-de/by-2-0). Die Daten wurden geändert: Formeln als Text dargestellt, Bilder konvertiert.",
+      "contentVersion": "2024.3",
+      "schemaVersion": 2,
+      "questionCount": 204,
+      "labels": [
+        "radio",
+        "law"
+      ],
+      "archive": "https://github.com/mendoxe/quizness-dataset/releases/download/catalogue-2/eaef5789-e247-54ec-884d-dc7c00b9bb7f-2024.3.tar.gz",
+      "sizeBytes": 55990,
+      "sha256": "c5f3ac74c171a6998ed9dbb7c33d6b7d96bba4cfd6652676a6e3566b3fcb5601"
+    }
+  ]
 }
