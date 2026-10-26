@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 2,
-  "revision": 2,
+  "revision": 3,
   "datasets": [
     {
       "datasetId": "9ee6a4d5-3b83-5d0d-af92-195a2e1f2c75",
@@ -81,7 +81,7 @@
       "locale": "cs",
       "defaultLocale": "cs",
       "description": "Oficiální testové otázky Ministerstva vnitra ČR k teoretické části zkoušky odborné způsobilosti (znění z 15. 12. 2025). Test má 30 otázek a trvá 40 minut; k obecnému zbrojnímu oprávnění je potřeba alespoň 26 správných odpovědí, k rozšířenému 28.",
-      "contentVersion": "2025.12.15",
+      "contentVersion": "2025.12.15.1",
       "schemaVersion": 2,
       "questionCount": 835,
       "labels": [
@@ -89,9 +89,9 @@
         "law",
         "first aid"
       ],
-      "archive": "https://github.com/mendoxe/quizness-dataset/releases/download/catalogue-2/45d97dcb-09f7-5ac3-9705-f132f3e0407b-2025.12.15.tar.gz",
-      "sizeBytes": 1902856,
-      "sha256": "0a7117e03a93f18d23b5317087e0103a9f586caff6ebb1bbd38f6b2358804899"
+      "archive": "https://github.com/mendoxe/quizness-dataset/releases/download/catalogue-3/45d97dcb-09f7-5ac3-9705-f132f3e0407b-2025.12.15.1.tar.gz",
+      "sizeBytes": 1902906,
+      "sha256": "7e13f0bf4a632cf975909e279a2d29a09a5b0f31e502c3d3794eb9759617c5d4"
     },
     {
       "datasetId": "0ed644b0-152a-5de7-828b-ff8e85165cd7",
